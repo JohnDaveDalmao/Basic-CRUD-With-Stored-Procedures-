@@ -1,0 +1,12 @@
+D:\Visual Studio\ContactCRUD\ContactCRUD\bin\Debug\Data\ContactDB.mdf
+D:\Visual Studio\ContactCRUD\ContactCRUD\bin\Debug\Data\ContactDB_log.ldf
+D:\Visual Studio\ContactCRUD\ContactCRUD\bin\Debug\ContactCRUD.exe.config
+D:\Visual Studio\ContactCRUD\ContactCRUD\bin\Debug\ContactCRUD.exe
+D:\Visual Studio\ContactCRUD\ContactCRUD\bin\Debug\ContactCRUD.pdb
+D:\Visual Studio\ContactCRUD\ContactCRUD\obj\Debug\ContactCRUD.csprojAssemblyReference.cache
+D:\Visual Studio\ContactCRUD\ContactCRUD\obj\Debug\ContactCRUD.Form1.resources
+D:\Visual Studio\ContactCRUD\ContactCRUD\obj\Debug\ContactCRUD.Properties.Resources.resources
+D:\Visual Studio\ContactCRUD\ContactCRUD\obj\Debug\ContactCRUD.csproj.GenerateResource.cache
+D:\Visual Studio\ContactCRUD\ContactCRUD\obj\Debug\ContactCRUD.csproj.CoreCompileInputs.cache
+D:\Visual Studio\ContactCRUD\ContactCRUD\obj\Debug\ContactCRUD.exe
+D:\Visual Studio\ContactCRUD\ContactCRUD\obj\Debug\ContactCRUD.pdb
